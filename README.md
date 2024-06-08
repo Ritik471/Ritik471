@@ -7,12 +7,11 @@
 <h2 align="left">👩‍💻 About Me</h2>
 
 <h3 align="left">
-  🔭 I’m currently working on Flutter Chat Application<br>
-  👯 I’m looking to collaborate on <br>
-  🤝 I’m looking for help with<br>
-  🌱 I’m currently learning<br>
-  💬 Ask me about <br>
-  ⚡ Fun fact
+  🔭 I’m currently working on :  Flutter Chat Application.<br>
+  👯 I’m looking to collaborate : on Flutter and Android Projects.<br>
+  🌱 I’m currently learning : Advance Concepts of Flutter and Dart <br>
+  💬 Ask me about: Flutter, Dart, Android <br>
+  ⚡ Fun fact : Flutter was initially unveiled as a project called "Sky" within Google
 </h3>
 
 <h2 align="left">🛠 Language and tools</h2>
