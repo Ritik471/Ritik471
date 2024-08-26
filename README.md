@@ -45,6 +45,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ritik471&show_icons=true&theme=dark" height="200" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=Ritik471&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="200" alt="Streak Stats" />
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/661adcceca9c84a979f1f91f?variant=dark&roadmaps=flutter" alt="roadmap.sh"/></a>
 </div>
 
 <h2 align="left">📊 Most Used Languages</h2>
